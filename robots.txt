@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ebudiaje.github.io/KwF/sitemap_index.txt
+Sitemap: https://ebudiaje.github.io/cvL/sitemap_index.txt
+Sitemap: https://ebudiaje.github.io/fqM/sitemap_index.txt
+Sitemap: https://ebudiaje.github.io/gMT/sitemap_index.txt
